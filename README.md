@@ -1,4 +1,6 @@
-## Hi there 👋
+## This is a project called BtbtheGame.
+This is a project for 
+
 
 <!--
 **BtBtheGame/BtBtheGame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
